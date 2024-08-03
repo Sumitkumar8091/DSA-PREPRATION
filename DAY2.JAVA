@@ -1,4 +1,4 @@
-
+// ----------------PROBLEM NO 1460 -------------
 // ---------------- APPROACH 1 -----------------
 class Solution {
     public boolean canBeEqual(int[] target, int[] arr) {
